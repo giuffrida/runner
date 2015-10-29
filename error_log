@@ -1,0 +1,470 @@
+[14-Aug-2015 10:40:45] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/864995210?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[14-Aug-2015 10:40:45] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/864995210?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[14-Aug-2015 10:40:45] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[14-Aug-2015 10:40:45] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[14-Aug-2015 10:40:45] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[14-Aug-2015 10:40:45] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[14-Aug-2015 10:40:45] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[14-Aug-2015 10:40:45] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[14-Aug-2015 10:40:45] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Aug-2015 21:19:25] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/870975929?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[19-Aug-2015 21:19:25] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/870975929?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[19-Aug-2015 21:19:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[19-Aug-2015 21:19:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[19-Aug-2015 21:19:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[19-Aug-2015 21:19:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Aug-2015 21:19:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Aug-2015 21:19:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Aug-2015 21:19:25] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 10:33:54] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[23-Aug-2015 10:33:54] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[23-Aug-2015 10:33:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 10:33:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 10:33:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 10:33:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 10:33:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 10:33:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 10:33:54] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:02:59] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/872402728?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[23-Aug-2015 12:02:59] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/872402728?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[23-Aug-2015 12:02:59] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 12:02:59] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 12:02:59] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 12:02:59] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:02:59] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:02:59] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:02:59] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:05:19] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/872402728?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[23-Aug-2015 12:05:19] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/872402728?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[23-Aug-2015 12:05:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 12:05:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 12:05:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[23-Aug-2015 12:05:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:05:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:05:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:05:19] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[23-Aug-2015 12:06:27] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;gpxuploads/1440324387.gpx&quot; in /home/runnerpl/public_html/runners/uploadgpx.php on line 23
+[23-Aug-2015 12:06:27] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[23-Aug-2015 12:06:27] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[23-Aug-2015 12:06:27] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[23-Aug-2015 12:06:27] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[23-Aug-2015 12:06:27] PHP Notice:  Undefined offset:  -1 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[23-Aug-2015 12:06:27] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[23-Aug-2015 12:06:27] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 46
+[25-Aug-2015 16:06:25] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/877045582?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[25-Aug-2015 16:06:25] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/877045582?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[25-Aug-2015 16:06:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[25-Aug-2015 16:06:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[25-Aug-2015 16:06:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[25-Aug-2015 16:06:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[25-Aug-2015 16:06:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[25-Aug-2015 16:06:25] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[25-Aug-2015 16:06:25] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[25-Aug-2015 15:12:55] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[25-Aug-2015 17:12:56] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[25-Aug-2015 21:12:57] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[26-Aug-2015 00:12:19] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/745276375?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[26-Aug-2015 00:12:19] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/745276375?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[26-Aug-2015 00:12:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Aug-2015 00:12:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Aug-2015 00:12:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Aug-2015 00:12:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:12:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:12:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:12:19] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:18:19] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/759136043?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[26-Aug-2015 00:18:19] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/759136043?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[26-Aug-2015 00:18:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Aug-2015 00:18:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Aug-2015 00:18:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Aug-2015 00:18:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:18:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:18:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Aug-2015 00:18:19] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Aug-2015 22:19:26] PHP Notice:  Undefined index:  runidmod in /home/runnerpl/public_html/runners/runedit.php on line 8
+[27-Aug-2015 22:19:26] PHP Notice:  Undefined index:  shoemod in /home/runnerpl/public_html/runners/runedit.php on line 9
+[27-Aug-2015 22:19:26] PHP Notice:  Undefined index:  diarymod in /home/runnerpl/public_html/runners/runedit.php on line 10
+[27-Aug-2015 21:19:27] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[27-Aug-2015 21:20:11] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[27-Aug-2015 21:20:30] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[27-Aug-2015 22:20:32] PHP Notice:  Undefined index:  runidmod in /home/runnerpl/public_html/runners/runedit.php on line 8
+[27-Aug-2015 22:20:32] PHP Notice:  Undefined index:  shoemod in /home/runnerpl/public_html/runners/runedit.php on line 9
+[27-Aug-2015 22:20:32] PHP Notice:  Undefined index:  diarymod in /home/runnerpl/public_html/runners/runedit.php on line 10
+[03-Sep-2015 14:06:00] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/885813921?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[03-Sep-2015 14:06:00] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/885813921?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[03-Sep-2015 14:06:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[03-Sep-2015 14:06:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[03-Sep-2015 14:06:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[03-Sep-2015 14:06:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:06:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:06:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:06:00] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:07:10] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/885813921?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[03-Sep-2015 14:07:10] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/885813921?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[03-Sep-2015 14:07:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[03-Sep-2015 14:07:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[03-Sep-2015 14:07:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[03-Sep-2015 14:07:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:07:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:07:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 14:07:10] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[03-Sep-2015 15:25:27] PHP Notice:  Undefined offset:  2 in /home/runnerpl/public_html/runners/dateupdate.php on line 14
+[03-Sep-2015 15:25:27] PHP Notice:  Undefined offset:  1 in /home/runnerpl/public_html/runners/dateupdate.php on line 14
+[03-Sep-2015 15:25:27] PHP Notice:  Undefined offset:  2 in /home/runnerpl/public_html/runners/dateupdate.php on line 15
+[03-Sep-2015 15:25:27] PHP Notice:  Undefined offset:  1 in /home/runnerpl/public_html/runners/dateupdate.php on line 15
+[03-Sep-2015 14:28:39] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[03-Sep-2015 16:28:40] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[03-Sep-2015 20:28:46] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[12-Sep-2015 22:34:07] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[13-Sep-2015 14:16:07] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/896989694?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[13-Sep-2015 14:16:07] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/896989694?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[13-Sep-2015 14:16:07] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[13-Sep-2015 14:16:07] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[13-Sep-2015 14:16:07] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[13-Sep-2015 14:16:07] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:07] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:07] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:07] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:32] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/896989694?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[13-Sep-2015 14:16:32] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/896989694?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[13-Sep-2015 14:16:32] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[13-Sep-2015 14:16:32] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[13-Sep-2015 14:16:32] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[13-Sep-2015 14:16:32] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:32] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:32] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 14:16:32] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[13-Sep-2015 17:05:20] PHP Notice:  Undefined index:  runidmod in /home/runnerpl/public_html/runners/runedit.php on line 8
+[13-Sep-2015 17:05:20] PHP Notice:  Undefined index:  shoemod in /home/runnerpl/public_html/runners/runedit.php on line 9
+[13-Sep-2015 17:05:20] PHP Notice:  Undefined index:  diarymod in /home/runnerpl/public_html/runners/runedit.php on line 10
+[13-Sep-2015 16:05:21] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[14-Sep-2015 01:01:26] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[16-Sep-2015 10:23:33] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/900234519?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[16-Sep-2015 10:23:33] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/900234519?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[16-Sep-2015 10:23:33] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[16-Sep-2015 10:23:33] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[16-Sep-2015 10:23:33] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[16-Sep-2015 10:23:33] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[16-Sep-2015 10:23:33] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[16-Sep-2015 10:23:33] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[16-Sep-2015 10:23:33] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[17-Sep-2015 17:47:04] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 33
+[17-Sep-2015 17:47:04] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 33
+[17-Sep-2015 17:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 34
+[17-Sep-2015 17:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 34
+[17-Sep-2015 17:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 35
+[17-Sep-2015 17:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 35
+[17-Sep-2015 17:47:05] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'startime' cannot be null' in /home/runnerpl/public_html/runners/run.class.php:115
+Stack trace:
+#0 /home/runnerpl/public_html/runners/run.class.php(115): PDOStatement->execute(Array)
+#1 /home/runnerpl/public_html/runners/putnike.php(39): run::runInsert('3898859', '/35820000000065...', NULL, NULL, NULL, 'Nike')
+#2 {main}
+  thrown in /home/runnerpl/public_html/runners/run.class.php on line 115
+[18-Sep-2015 09:05:49] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/90153711?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[18-Sep-2015 09:05:49] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/90153711?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[18-Sep-2015 09:05:49] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[18-Sep-2015 09:05:49] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[18-Sep-2015 09:05:49] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[18-Sep-2015 09:05:49] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[18-Sep-2015 09:05:49] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[18-Sep-2015 09:05:49] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[18-Sep-2015 09:05:49] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Sep-2015 08:21:28] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/902804452?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[19-Sep-2015 08:21:28] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/902804452?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[19-Sep-2015 08:21:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[19-Sep-2015 08:21:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[19-Sep-2015 08:21:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[19-Sep-2015 08:21:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Sep-2015 08:21:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Sep-2015 08:21:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[19-Sep-2015 08:21:28] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[21-Sep-2015 08:22:42] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[21-Sep-2015 10:22:44] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[21-Sep-2015 14:22:45] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[24-Sep-2015 13:38:27] PHP Notice:  Undefined index:  garmin in /home/runnerpl/public_html/runners/putgarmin.php on line 11
+[24-Sep-2015 13:38:27] PHP Notice:  Undefined index:  runner in /home/runnerpl/public_html/runners/putgarmin.php on line 12
+[24-Sep-2015 13:38:27] PHP Notice:  Undefined index:  nick in /home/runnerpl/public_html/runners/putgarmin.php on line 13
+[24-Sep-2015 14:38:28] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[24-Sep-2015 14:38:28] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[24-Sep-2015 14:38:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[24-Sep-2015 14:38:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[24-Sep-2015 14:38:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[24-Sep-2015 14:38:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[24-Sep-2015 14:38:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[24-Sep-2015 14:38:28] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[24-Sep-2015 14:38:28] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[24-Sep-2015 12:38:28] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[24-Sep-2015 12:38:35] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[24-Sep-2015 23:48:47] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8510000000012501714070008000415105186558-3898859' for key 'PRIMARY'' in /home/runnerpl/public_html/runners/run.class.php:115
+Stack trace:
+#0 /home/runnerpl/public_html/runners/run.class.php(115): PDOStatement->execute(Array)
+#1 /home/runnerpl/public_html/runners/putnike.php(39): run::runInsert('3898859', '851000000001250...', '2015-09-24T17:1...', 3162000, 11.6553, 'Nike')
+#2 {main}
+  thrown in /home/runnerpl/public_html/runners/run.class.php on line 115
+[26-Sep-2015 09:16:19] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/909578870?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[26-Sep-2015 09:16:19] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/909578870?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[26-Sep-2015 09:16:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Sep-2015 09:16:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Sep-2015 09:16:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[26-Sep-2015 09:16:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Sep-2015 09:16:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Sep-2015 09:16:19] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[26-Sep-2015 09:16:19] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:49:00] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/911038018?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[27-Sep-2015 11:49:00] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/911038018?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[27-Sep-2015 11:49:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[27-Sep-2015 11:49:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[27-Sep-2015 11:49:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[27-Sep-2015 11:49:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:49:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:49:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:49:00] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:50:03] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[27-Sep-2015 11:50:03] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[27-Sep-2015 11:50:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[27-Sep-2015 11:50:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[27-Sep-2015 11:50:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[27-Sep-2015 11:50:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:50:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:50:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:50:03] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[27-Sep-2015 11:50:43] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;gpxuploads/1443347443.gpx&quot; in /home/runnerpl/public_html/runners/uploadgpx.php on line 23
+[27-Sep-2015 11:50:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:50:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:50:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:50:43] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:50:43] PHP Notice:  Undefined offset:  -1 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[27-Sep-2015 11:50:43] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[27-Sep-2015 11:50:43] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 46
+[27-Sep-2015 11:53:04] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;gpxuploads/1443347584.gpx&quot; in /home/runnerpl/public_html/runners/uploadgpx.php on line 23
+[27-Sep-2015 11:53:04] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:53:04] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:53:04] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:53:04] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:53:04] PHP Notice:  Undefined offset:  -1 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[27-Sep-2015 11:53:04] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[27-Sep-2015 11:53:04] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 46
+[27-Sep-2015 11:53:42] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:53:42] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[27-Sep-2015 11:53:42] PHP Notice:  Undefined offset:  -1 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[27-Sep-2015 11:53:42] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[27-Sep-2015 11:53:42] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 46
+[27-Sep-2015 11:48:06] PHP Notice:  Undefined index:  nick in /home/runnerpl/public_html/runners/personalpage.php on line 7
+[27-Sep-2015 10:48:06] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[27-Sep-2015 16:38:13] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 33
+[27-Sep-2015 16:38:13] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 33
+[27-Sep-2015 16:38:13] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 34
+[27-Sep-2015 16:38:13] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 34
+[27-Sep-2015 16:38:13] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 35
+[27-Sep-2015 16:38:13] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putnike.php on line 35
+[27-Sep-2015 16:38:14] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'startime' cannot be null' in /home/runnerpl/public_html/runners/run.class.php:115
+Stack trace:
+#0 /home/runnerpl/public_html/runners/run.class.php(115): PDOStatement->execute(Array)
+#1 /home/runnerpl/public_html/runners/putnike.php(39): run::runInsert('1627220519', 'https://secure-...', NULL, NULL, NULL, 'Nike')
+#2 {main}
+  thrown in /home/runnerpl/public_html/runners/run.class.php on line 115
+[04-Oct-2015 10:40:51] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[04-Oct-2015 10:41:26] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[04-Oct-2015 12:46:03] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:46:03] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:46:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:46:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:46:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:46:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:46:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:46:03] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:46:03] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:47:05] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:47:05] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:47:05] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:47:05] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:48:20] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:48:20] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:48:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:48:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:48:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:48:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:48:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:48:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:48:20] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:49:29] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:49:29] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:49:29] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:49:29] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:49:29] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:49:29] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:49:29] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:49:29] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:49:29] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:57:20] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:57:20] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 12:57:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:57:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:57:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 12:57:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:57:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:57:20] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 12:57:20] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 13:02:43] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/917937785?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 13:02:43] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/917937785?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 13:02:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 13:02:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 13:02:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 13:02:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 13:02:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 13:02:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 13:02:43] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 19:58:12] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 19:58:12] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[04-Oct-2015 19:58:12] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 19:58:12] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 19:58:12] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[04-Oct-2015 19:58:12] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 19:58:12] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 19:58:12] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[04-Oct-2015 19:58:12] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:11:40] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 11:11:40] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 11:11:40] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:11:40] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:11:40] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:11:40] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:11:40] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:11:40] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:11:40] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:15:10] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;gpxuploads/1444122910.gpx&quot; in /home/runnerpl/public_html/runners/uploadgpx.php on line 23
+[06-Oct-2015 11:15:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[06-Oct-2015 11:15:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[06-Oct-2015 11:15:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[06-Oct-2015 11:15:10] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/uploadgpx.php on line 32
+[06-Oct-2015 11:15:10] PHP Notice:  Undefined offset:  -1 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[06-Oct-2015 11:15:10] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 41
+[06-Oct-2015 11:15:10] PHP Notice:  Undefined offset:  0 in /home/runnerpl/public_html/runners/uploadgpx.php on line 46
+[06-Oct-2015 11:17:17] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 11:17:17] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/https://connect.garm?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 11:17:17] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:17:17] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:17:17] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:17:17] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:17:17] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:17:17] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:17:17] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:23:41] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 11:23:41] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/al6060?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 11:23:41] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:23:41] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:23:41] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 11:23:41] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:23:41] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:23:41] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 11:23:41] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 10:15:42] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[06-Oct-2015 12:15:43] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[06-Oct-2015 15:41:19] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[06-Oct-2015 15:41:29] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[06-Oct-2015 15:41:36] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[06-Oct-2015 18:11:54] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/918503145?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:11:54] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/918503145?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:11:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:11:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:11:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:11:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:11:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:11:54] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:11:54] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:12:11] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/918503145?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:12:11] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/918503145?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:12:11] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:12:11] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:12:11] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:12:11] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:12:11] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:12:11] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:12:11] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 16:15:45] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[06-Oct-2015 18:56:00] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/906802094?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:56:00] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/906802094?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:56:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:56:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:56:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:56:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:00] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:00] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:46] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/906802094?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:56:46] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/906802094?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 18:56:46] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:56:46] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:56:46] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 18:56:46] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:46] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:46] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 18:56:46] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 19:17:35] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[06-Oct-2015 21:46:43] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/920457653?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 21:46:43] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/920457653?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 21:46:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 21:46:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 21:46:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 21:46:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:46:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:46:43] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:46:43] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:49:10] PHP Warning:  simplexml_load_file(http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/920457653?full=true) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 21:49:10] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://connect.garmin.com/proxy/activity-service-1.1/tcx/activity/920457653?full=true&quot; in /home/runnerpl/public_html/runners/putgarmin.php on line 19
+[06-Oct-2015 21:49:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 21:49:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 21:49:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 23
+[06-Oct-2015 21:49:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:49:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:49:10] PHP Notice:  Trying to get property of non-object in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[06-Oct-2015 21:49:10] PHP Warning:  Invalid argument supplied for foreach() in /home/runnerpl/public_html/runners/putgarmin.php on line 28
+[07-Oct-2015 04:36:33] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[10-Oct-2015 17:02:46] PHP Fatal error:  Call to a member function getUserid() on a non-object in /home/runnerpl/public_html/runners/personalpage.php on line 29
+[18-Oct-2015 02:54:29] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[18-Oct-2015 02:57:17] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[18-Oct-2015 02:58:52] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[18-Oct-2015 03:03:01] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[23-Oct-2015 16:34:51] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[23-Oct-2015 18:34:53] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
+[23-Oct-2015 22:34:55] PHP Fatal error:  Call to a member function getDevice() on a non-object in /home/runnerpl/public_html/runners/rungraph.php on line 34
